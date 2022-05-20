@@ -1,0 +1,38 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : "."
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Asus/source/repos/git-isir2/RT_ISICG_etu-master-70cf2073c810b6b613bd00cd82a321c639d6f4de/lib/glm/out/build/x64-Debug",
+		"source" : "C:/Users/Asus/source/repos/git-isir2/RT_ISICG_etu-master-70cf2073c810b6b613bd00cd82a321c639d6f4de/lib/glm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
